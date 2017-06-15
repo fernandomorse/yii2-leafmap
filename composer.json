@@ -1,0 +1,23 @@
+{
+    "name": "fernandomorse/yii2-leafmap",
+    "description": "Yii2 extension to integrate the Leaflet JavaScript mapping library",
+    "keywords": ["yii2", "widget", "Leaflet", "map", "mapping", "maps"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/fernandomorse/yii2-leafmap/issues",
+        "source": "https://github.com/fernandomorse/yii2-leafmap"
+    },
+    "authors": [
+        {
+            "name": "Fernando Motse",
+            "email": "morse.alves@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "automacaoiot\\leafmap\\": "" }
+    }
+}
